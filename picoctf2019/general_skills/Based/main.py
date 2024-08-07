@@ -1,11 +1,11 @@
 # Danh sách các chuỗi nhị phân
-binary_values = ['01110000', '01100101', '01100001', '01110010']
+binary_values = ['01101100', '01101001', '01100111', '01101000', '01110100', '01110100']
 
 # Danh sách các chuỗi octal
-octal_values = ['156', '165', '162', '163', '145']
+octal_values = ['143', '157', '156', '164', '141', '151', '145', '162']
 
 # Danh sách các chuỗi hex (đã chia thành các phần nhỏ hơn)
-hex_values = ['63', '6f', '6c', '6f', '72', '61', '64', '6f']
+hex_values = ['70','69','65']
 
 # Chuyển đổi từng chuỗi nhị phân thành ký tự
 text_binary = "".join([chr(int(binary, 2)) for binary in binary_values])
