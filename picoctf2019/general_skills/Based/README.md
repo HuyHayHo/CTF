@@ -5,6 +5,7 @@
 
 ## Hints
 > I hear python can convert things.
+> 
 > It might help to have multiple windows open.
 
 ## Solution
