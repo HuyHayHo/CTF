@@ -5,7 +5,7 @@ int main()
     setbuf(stdout, NULL);
     int con;
     con = 0;
-    int account_balance = 1111;
+    int account_balance = 1100;
     while(con == 0){
         
         printf("Welcome to the flag exchange\n");
